@@ -206,11 +206,11 @@
   }
 
   span.svg-icon.inline.check {
-    height: 12px;
-    width: 10px;
+    height: 16px;
+    width: 16px;
     position: absolute;
-    left: 8px;
-    top: 8px;
+    left: 4px;
+    top: 4px;
     margin-top: 0;
     color: $gray-200;
   }
